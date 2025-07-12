@@ -10,8 +10,6 @@ def calc(x):
     return log(abs(12 * sin(int(x))))
 
 
-from selenium.webdriver.support.wait import WebDriverWait
-
 link = 'http://suninjuly.github.io/explicit_wait2.html'
 try:
     browser = webdriver.Chrome()

@@ -1,5 +1,6 @@
 from selenium import webdriver
-from selenium.webdriver.common.by import By
+
+ember479
 from time import sleep
 from math import log, sin
 
